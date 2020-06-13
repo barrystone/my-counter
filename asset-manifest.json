@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-counter/static/css/main.d1b05096.chunk.css",
+    "main.js": "/my-counter/static/js/main.b5e7cd71.chunk.js",
+    "main.js.map": "/my-counter/static/js/main.b5e7cd71.chunk.js.map",
+    "runtime-main.js": "/my-counter/static/js/runtime-main.1dc9305c.js",
+    "runtime-main.js.map": "/my-counter/static/js/runtime-main.1dc9305c.js.map",
+    "static/css/2.67123b20.chunk.css": "/my-counter/static/css/2.67123b20.chunk.css",
+    "static/js/2.8e416e4a.chunk.js": "/my-counter/static/js/2.8e416e4a.chunk.js",
+    "static/js/2.8e416e4a.chunk.js.map": "/my-counter/static/js/2.8e416e4a.chunk.js.map",
+    "index.html": "/my-counter/index.html",
+    "precache-manifest.9fb5abf830ddcb5a23b1ecbf4b29de9f.js": "/my-counter/precache-manifest.9fb5abf830ddcb5a23b1ecbf4b29de9f.js",
+    "service-worker.js": "/my-counter/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/my-counter/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/my-counter/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.8e416e4a.chunk.js.LICENSE.txt": "/my-counter/static/js/2.8e416e4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dc9305c.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.8e416e4a.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.b5e7cd71.chunk.js"
+  ]
+}
